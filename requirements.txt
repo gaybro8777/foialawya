@@ -1,4 +1,4 @@
-django==1.11
+django==1.11.29
 psycopg2
 business-calendar==0.2.1
 django-flat-responsive
